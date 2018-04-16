@@ -8,7 +8,7 @@ bool teaching_assistant=false;
 int burst2 = 0;
 int i=0;
 int a[100],f=0;
-int wait_time_faculty(int burst_faculty[],int rburst_faculty[], int f1, int wait_faculty[], int quant_data, 
+int wait_time_teacher(int burst_teacher[],int rburst_faculty[], int f1, int wait_faculty[], int quant_data, 
                                                                 int quantum, int t )
   { 
   int ft=0;int count=0;
